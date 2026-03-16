@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raviraj Dhokiya</h1>
-<h3 align="center">💻 Passionate Developer | DSA Enthusiast | Problem Solver</h3>
+<h3 align="center">💻 Passionate Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%7C+Java+%7C+C+%2B%2B+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -89,14 +89,10 @@
 - 🌱 Always learning new technologies and improving skills
 - 💬 Ask me about **Java, C++, DSA, Web Development, MySQL**
 - 📫 Reach me at **ravirajdhokiya9@gmail.com**
-- ⚡ Fun fact: *I debug code faster than I find matching socks!*
-
+  
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RavirajDhokiya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
