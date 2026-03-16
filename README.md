@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raviraj Dhokiya</h1>
-<h3 align="center">💻 Passionate Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+%7C+Java+%7C+C+%2B%2B+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 ---
 
