@@ -47,7 +47,9 @@
 
 ### 📊 Core Skills
 <p>
-  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/RAVIRAJ_DHOKIYA/" target="_blank">
+    <img src="https://img.shields.io/badge/DSA%20(LeetCode)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
   <img src="https://img.shields.io/badge/Problem%20Solving-00C896?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
 </p>
 
@@ -91,8 +93,4 @@
 - 📫 Reach me at **ravirajdhokiya9@gmail.com**
   
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RavirajDhokiya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
 
