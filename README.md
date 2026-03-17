@@ -59,13 +59,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviraj-Dhokiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raviraj-Dhokiya&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
-
 ---
 
 ## 📈 Activity Graph
