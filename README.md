@@ -3,7 +3,15 @@
 
 ---
 
+## 💡 About Me
 
+- 🎓 BTech Student passionate about **Software Development & Problem Solving**
+- 🔭 Currently working on **DSA and Full Stack Projects**
+- 🌱 Always learning new technologies and improving skills
+- 💬 Ask me about **Java, C++, DSA, Web Development, MySQL**
+- 📫 Reach me at **ravirajdhokiya9@gmail.com**
+
+---
 
 ## 🌐 Socials
 
@@ -69,13 +77,6 @@
 
 ---
 
-## 💡 About Me
-
-- 🎓 BTech Student passionate about **Software Development & Problem Solving**
-- 🔭 Currently working on **DSA and Full Stack Projects**
-- 🌱 Always learning new technologies and improving skills
-- 💬 Ask me about **Java, C++, DSA, Web Development, MySQL**
-- 📫 Reach me at **ravirajdhokiya9@gmail.com**
   
 ---
 
