@@ -1,80 +1,114 @@
-<h1 align="center">Hi 👋, I'm Raviraj Dhokiya</h1>
+<h1 align="center" style="color:#01602E;">
+  Raviraj Dhokiya
+</h1>
+
+<p align="center">
+  🚀 Software Developer | DSA Enthusiast | Backend Learner
+</p>
+
+
 
 ---
 
 ## 💡 About Me
 
-- 🎓 BTech Student passionate about **Software Development & Problem Solving**
-- 🔭 Currently working on **DSA and Full Stack Projects**
-- 🌱 Learning **Backend + System Design**
-- 💬 Ask me about **Java, C++, DSA, Web Development, MySQL**
-- 📫 Reach me at **ravirajdhokiya9@gmail.com**
+- 🎓 BTech CSE (3rd Year)
+- 💻 Solved 300+ DSA problems on LeetCode
+- ⚡ Strong in **Java (DSA + Backend Logic)**
+- 🚀 Currently building **Full Stack & Backend Projects**
 
 ---
 
-## 🌐 Socials
+## ⚙️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raviraj-dhokiya-b5699a292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ravirajdhokiya9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Raviraj-Dhokiya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/raviraj_dhokiya_9" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+### 🚀 Core  
+Java • C++ • C  
 
-## 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=java,cpp,c"/>
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-### 🔧 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
+### 🌐 Web  
+HTML • CSS • JavaScript  
 
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+
+### 🗄️ Database  
+MySQL • PostgreSQL  
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+### 🧰 Tools  
+  GitHub • VS Code  
+
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
+
+</div>
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 **Online Auction System** – Java + Oracle Database based web app with authentication & bidding system  
-- 🔹 More projects coming soon...
+- 🔹 **Online Auction System**  
+  Java + Oracle DB based system with authentication & bidding logic  
+
+- 🔹 More Projects coming soon...
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/RAVIRAJ_DHOKIYA/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Raviraj-Dhokiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://streak-stats.demolab.com?user=Raviraj-Dhokiya&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Raviraj-Dhokiya&show_icons=true&theme=radical&hide_border=true&border_radius=15&icon_color=00F7FF&title_color=00F7FF&text_color=ffffff"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviraj-Dhokiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=Raviraj-Dhokiya&theme=radical&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviraj-Dhokiya&layout=compact&theme=radical&hide_border=true&title_color=00F7FF&text_color=ffffff"/>
+
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raviraj-Dhokiya&theme=github_dark"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raviraj-Dhokiya&theme=tokyo-night&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/raviraj-dhokiya-b5699a292">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:ravirajdhokiya9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://github.com/Raviraj-Dhokiya">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="https://www.instagram.com/raviraj_dhokiya_9">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
 </p>
