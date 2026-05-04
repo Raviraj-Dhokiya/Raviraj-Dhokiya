@@ -29,7 +29,6 @@ public class Raviraj {
 
     String name     = "Raviraj Dhokiya";
     String college  = "Maharaja Sayajirao University (B.Tech CSE, 2024–2027)";
-    float  cgpa     = 6.62f;
     int    leetcode = 300; // problems solved and counting...
 
     String[] strengths = {
@@ -41,12 +40,8 @@ public class Raviraj {
 
     String[] currentlyBuilding = {
         "Full Stack Projects",
-        "Typing Speed App (React + JWT Auth)"
+        "Exploring new ideas..."
     };
-
-    String funFact() {
-        return "I scored 98.61 PR in HSC — consistency is my superpower! ⚡";
-    }
 }
 ```
 
@@ -54,40 +49,29 @@ public class Raviraj {
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>💻 Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,cpp,c"/>
-      &nbsp;&nbsp;Java • C++ • C
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌐 Web</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-      &nbsp;&nbsp;HTML • CSS • JavaScript • React
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,oracle"/>
-      &nbsp;&nbsp;MySQL • Oracle
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧰 Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=github,vscode,maven"/>
-      &nbsp;&nbsp;GitHub • VS Code • Maven
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>📐 Concepts</b></td>
-    <td>Data Structures & Algorithms • OOP • REST APIs • JWT Auth</td>
-  </tr>
-</table>
+<div align="center">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c"/>
+
+**🌐 Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,oracle"/>
+
+**🧰 Tools**
+
+<img src="https://skillicons.dev/icons?i=github,vscode,maven"/>
+
+**📐 Concepts**
+
+`Data Structures & Algorithms` &nbsp; `OOP` &nbsp; `REST APIs` &nbsp; `JWT Auth`
+
+</div>
 
 ---
 
@@ -104,7 +88,7 @@ A fully functional online auction platform with:
 
 ---
 
-### ⌨️ Typing Speed App *(In Progress)*
+### ⌨️ Typing Speed App
 > **React • JWT • OTP Auth • Charts & Heatmaps**
 
 A feature-rich typing test application with:
@@ -119,7 +103,7 @@ A feature-rich typing test application with:
 
 | 🏅 Achievement | Details |
 |---|---|
-| 🧠 **LeetCode Warrior** | Solved **300+ problems** — strong in DSA & algorithmic thinking |
+| 🧠 **LeetCode** | Solved **300+ problems** — strong in DSA & algorithmic thinking |
 | 🏗️ **Odoo Hackathon** | Participated in team-based real-world problem solving |
 | 🎪 **College Hackathon Volunteer** | Event coordination & management experience |
 | 📜 **ARM Cortex M3/M4 Certification** | Embedded systems programming — Udemy |
@@ -150,11 +134,9 @@ A feature-rich typing test application with:
 
 ## 🎓 Education
 
-| 🏫 Institution | 📚 Qualification | 📅 Year | 🎯 Score |
-|---|---|---|---|
-| Maharaja Sayajirao University | B.Tech — Computer Science Engineering | 2024 – 2027 | CGPA: 6.62 |
-| Ultra Higher Secondary School | Higher Secondary Certificate (HSC) | March 2023 | PR: **98.61** |
-| Universal High School | Secondary School Certificate (SSC) | May 2021 | PR: **96.07** |
+| 🏫 Institution | 📚 Qualification | 📅 Year |
+|---|---|---|
+| Maharaja Sayajirao University | B.Tech — Computer Science Engineering | 2024 – 2027 |
 
 ---
 
@@ -163,9 +145,5 @@ A feature-rich typing test application with:
 🇬🇧 English &nbsp;|&nbsp; 🇮🇳 Hindi &nbsp;|&nbsp; 🅶 Gujarati
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raviraj-Dhokiya&label=Profile%20Views&color=4FC3F7&style=flat-square"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
