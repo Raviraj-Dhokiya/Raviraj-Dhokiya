@@ -65,7 +65,7 @@ public class Raviraj {
 
 **🧰 Tools**
 
-<img src="https://skillicons.dev/icons?i=github,vscode,maven"/>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 
 **📐 Concepts**
 
