@@ -55,23 +55,34 @@ public class Raviraj {
 <br/>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,js"/>
 
+Java • C++ • C • JavaScript
+
 **🌐 Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+HTML • CSS • React
 
 **⚙️ Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
+Node.js • Express
+
 **🗄️ Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
+
+MongoDB • MySQL • Supabase • Oracle
 <br/>
 
 
 **🧰 Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=github,vscode"/>
+
+Github • VScode
+
 
 **📐 Core Concepts**
 <br/>
