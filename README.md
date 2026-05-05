@@ -52,24 +52,31 @@ public class Raviraj {
 <div align="center">
 
 **💻 Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js"/>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c"/>
+**🌐 Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
 
-**🌐 Web**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+**⚙️ Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 **🗄️ Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,oracle"/>
 
 **🧰 Tools**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=github,vscode"/>
 
-**📐 Concepts**
+**📐 Core Concepts**
+<br/>
 
-`Data Structures & Algorithms` &nbsp; `OOP` &nbsp; `REST APIs` &nbsp; `JWT Auth`
+Data Structures & Algorithms • OOP • REST APIs • JWT Authentication
 
 </div>
 
