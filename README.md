@@ -39,82 +39,150 @@ public class Raviraj {
     };
 
     String[] currentlyBuilding = {
-        "Full Stack Projects",
-        "Exploring new ideas..."
-    };
+    "Full Stack Web Applications",
+    "Backend Systems",
+    "Improving DSA & System Design"
+};
 }
 ```
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**💻 Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js"/>
+<table>
+<tr>
+  <td><b>💻 Languages</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  </td>
+</tr>
 
-Java • C++ • C • JavaScript
+<tr>
+  <td><b>🌐 Frontend</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  </td>
+</tr>
 
-**🌐 Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<tr>
+  <td><b>⚙️ Backend</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  </td>
+</tr>
 
-HTML • CSS • React
+<tr>
+  <td><b>🗄️ Databases</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  </td>
+</tr>
 
-**⚙️ Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<tr>
+  <td><b>🔐 Authentication</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OTP_Auth-6A1B9A?style=flat-square"/>
+  </td>
+</tr>
 
-Node.js • Express
+<tr>
+  <td><b>🔌 APIs & Integrations</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Finnhub_API-2962FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Gemini_API-8E24AA?style=flat-square"/>
+    <img src="https://img.shields.io/badge/YouTube_Transcript_API-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaMail_API-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </td>
+</tr>
 
-**🗄️ Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
+<tr>
+  <td><b>🧰 Tools</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  </td>
+</tr>
 
-MongoDB • MySQL • Supabase • Oracle
-<br/>
+<tr>
+  <td><b>📐 Core Concepts</b></td>
+  <td>
+    Data Structures & Algorithms • OOP • REST APIs • Problem Solving
+  </td>
+</tr>
 
-
-**🧰 Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=github,vscode"/>
-
-Github • VScode
-
-
-**📐 Core Concepts**
-<br/>
-
-Data Structures & Algorithms • OOP • REST APIs • JWT Authentication
+</table>
 
 </div>
 
 ---
-
 ## 🚀 Projects
+
+### 📈 StockSphere
+> **React • Node.js • Express • MongoDB • JWT • Chart.js • Finnhub API**
+
+A modern stock market tracking and analytics platform featuring:
+- 📊 Real-time **stock price tracking & interactive charts**
+- 🔐 Secure **JWT authentication system**
+- 📰 Latest **market news & company insights**
+- ⭐ Personalized **watchlist management**
+- 📈 Responsive dashboard with financial data visualization
+
+🔗 GitHub: https://github.com/Raviraj-Dhokiya/StockSphere
+
+---
 
 ### 🔨 Online Auction System
 > **Java Servlets • Maven • Oracle DB • JavaMail API**
 
 A fully functional online auction platform with:
-- 🔐 User **registration & login** system
+- 🔐 Secure **user registration & login**
 - 💸 Real-time **bidding engine** with auto-bid support
-- 📋 **Watchlist** management & bid history downloads
-- 📧 Automated **email notifications** via JavaMail API for auction results
+- 📋 **Watchlist management** & bid history tracking
+- 📧 Automated **email notifications** for auction results
+
+🔗 GitHub: https://github.com/Raviraj-Dhokiya/OnlineAuctionSystem
 
 ---
 
-### ⌨️ Typing Speed App
+### ⌨️ typeRacer
 > **React • JWT • OTP Auth • Charts & Heatmaps**
 
-A feature-rich typing test application with:
-- ⚡ Real-time **WPM & accuracy tracking** across multiple game modes
-- 🔐 Secure **JWT + OTP-based** authentication
-- 🎮 Gamification: **XP, levels, badges & global leaderboard**
-- 📊 Interactive **charts and heatmaps** for performance visualization
+A feature-rich typing speed application with:
+- ⚡ Real-time **WPM & accuracy tracking**
+- 🔐 Secure **JWT + OTP authentication**
+- 🎮 Gamification with **XP, levels, badges & leaderboard**
+- 📊 Performance analytics using **charts and heatmaps**
 
+🔗 GitHub: https://github.com/Raviraj-Dhokiya/typeRacer
+
+---
+
+### 🎥 YT Summarizer
+> **React • Node.js • Express • Gemini API**
+
+An AI-powered YouTube video summarizer that:
+- 🧠 Generates concise **AI summaries** from YouTube videos
+- 📜 Extracts and processes **video transcripts**
+- ⚡ Helps users quickly understand long-form content
+- 🎯 Clean and responsive user interface
+
+🔗 GitHub: https://github.com/Raviraj-Dhokiya/YT-Summarizer
+
+---
 ---
 
 ## 🏆 Achievements & Activities
@@ -123,7 +191,7 @@ A feature-rich typing test application with:
 |---|---|
 | 🧠 **LeetCode** | Solved **300+ problems** — strong in DSA & algorithmic thinking |
 | 🏗️ **Odoo Hackathon** | Participated in team-based real-world problem solving |
-| 🎪 **College Hackathon Volunteer** | Event coordination & management experience |
+| 🎪 **Hackathon Coordination** | Event coordination & management experience |
 | 📜 **ARM Cortex M3/M4 Certification** | Embedded systems programming — Udemy |
 | 📘 **TCS iON Career Edge** | IT for Non-IT course (1st year) |
 
