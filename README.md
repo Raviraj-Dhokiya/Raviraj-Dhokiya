@@ -201,7 +201,7 @@ An AI-powered YouTube video summarizer that:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raviraj-Dhokiya&show_icons=true&theme=dark&hide_border=true&border_radius=12&icon_color=4FC3F7&title_color=4FC3F7&text_color=ffffff&bg_color=0d1117" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=Raviraj-Dhokiya&theme=dark&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&background=0d1117" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Raviraj-Dhokiya&theme=dark&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&background=0d1117" width="49%" />
 </div>
 
 <div align="center">
